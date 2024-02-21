@@ -16,10 +16,6 @@ HTML | CSS | JavaScript | jQuery | NestJS | PHP | Java | Python | phpMyAdmin | M
 
 [Google Developers](https://g.dev/afpellin) | [LinkedIn](https://www.linkedin.com/afpellin) | [Twitter](https://www.twitter.com/afpellin) | [Instagram](https://www.instagram.com/afpellin)
 
-📫 Contato
-
-- Email: afpellin@gmail.com
-
 ✔️ Projetos Destacados
 
 - [URI Beecrowd PHP](https://github.com/afpellin/uri-beecrowd-php)
@@ -34,5 +30,8 @@ HTML | CSS | JavaScript | jQuery | NestJS | PHP | Java | Python | phpMyAdmin | M
 
 📢 Idiomas
 
-Português (Nativo) | Inglês (Intermediário) | Espanhol (Intermediário)</p>
+Português (Nativo) | Inglês (Intermediário) | Espanhol (Intermediário)
 
+📫 Contato
+
+- Email: afpellin@gmail.com</p>
