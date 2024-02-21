@@ -6,10 +6,7 @@
 
 🚀 Principais Competências
 
-- Desenvolvimento Full Stack
-- Desenvolvimento de Sistemas
-- Desenvolvimento de Banco de Dados
-- Desenvolvimento de Aplicativos
+Desenvolvimento Full Stack | Desenvolvimento de Sistemas | Desenvolvimento de Banco de Dados | Desenvolvimento de Aplicativos
 
 💻 Tecnologias
 
@@ -17,16 +14,15 @@ HTML | CSS | JavaScript | jQuery | NestJS | PHP | Java | Python | phpMyAdmin | M
 
 🌟 Redes Sociais
 
-- [Google Developers](https://g.dev/afpellin) | [LinkedIn](https://www.linkedin.com/afpellin) | [Twitter](https://www.twitter.com/afpellin) | [Instagram](https://www.instagram.com/afpellin)
+[Google Developers](https://g.dev/afpellin) | [LinkedIn](https://www.linkedin.com/afpellin) | [Twitter](https://www.twitter.com/afpellin) | [Instagram](https://www.instagram.com/afpellin)
 
 📫 Contato
 
 - Email: afpellin@gmail.com
-- Telefone: (XX) XXXX-XXXX
 
-## Projetos Destacados
+✔️ Projetos Destacados
 
-- [Projeto 1](https://github.com/seu_usuario/projeto1)
+- [uri-beecrowd-php](https://github.com/afpellin/uri-beecrowd-php)
 - [Projeto 2](https://github.com/seu_usuario/projeto2)
 - [Projeto 3](https://github.com/seu_usuario/projeto3)
 
@@ -38,7 +34,5 @@ HTML | CSS | JavaScript | jQuery | NestJS | PHP | Java | Python | phpMyAdmin | M
 
 📢 Idiomas
 
-- Português (Nativo)
-- Inglês (Intermediário)
-- Espanhol (Intermediário)</p>
+Português (Nativo) | Inglês (Intermediário) | Espanhol (Intermediário)</p>
 
