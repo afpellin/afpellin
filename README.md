@@ -14,7 +14,7 @@ HTML | CSS | JavaScript | jQuery | NestJS | PHP | Java | Python | phpMyAdmin | M
 
 🌟 Redes Sociais
 
-[Google Developers](https://g.dev/afpellin) | [LinkedIn](https://www.linkedin.com/afpellin) | [Twitter](https://www.twitter.com/afpellin) | [Instagram](https://www.instagram.com/afpellin)
+[Google Developers](https://g.dev/afpellin) | [Linkedin](https://www.linkedin.com/afpellin) | [Twitter](https://www.twitter.com/afpellin) | [Instagram](https://www.instagram.com/afpellin) | [Facebook](https://www.facebook.com/afpellin)
 
 ✔️ Projetos Destacados
 
