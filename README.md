@@ -2,7 +2,7 @@
 
 😜 Sobre Mim
 
-:Apaixonado por tecnologia e especializado em desenvolvimento Full Stack de alto nível. Possuo sólida formação técnica e experiência comprovada em desenvolvimento de websites, aplicativos mobile, sistemas de gerenciamento de bancos de dados e integração de APIs. Com um código limpo e eficiente, tenho facilidade em resolver problemas complexos de forma muito criativa. Sou altamente motivado, autodidata e estou sempre em busca de aprender novas tecnologias para melhorar minhas habilidades. Tenho um forte compromisso com a qualidade e a entrega de projetos dentro do prazo. Estou aberto a novas oportunidades desafiadoras e pronto para contribuir para o sucesso de projetos de desenvolvimento de software inovadores. Vamos juntos construir o futuro da tecnologia!:
+[:]Apaixonado por tecnologia e especializado em desenvolvimento Full Stack de alto nível. Possuo sólida formação técnica e experiência comprovada em desenvolvimento de websites, aplicativos mobile, sistemas de gerenciamento de bancos de dados e integração de APIs. Com um código limpo e eficiente, tenho facilidade em resolver problemas complexos de forma muito criativa. Sou altamente motivado, autodidata e estou sempre em busca de aprender novas tecnologias para melhorar minhas habilidades. Tenho um forte compromisso com a qualidade e a entrega de projetos dentro do prazo. Estou aberto a novas oportunidades desafiadoras e pronto para contribuir para o sucesso de projetos de desenvolvimento de software inovadores. Vamos juntos construir o futuro da tecnologia![:]
 
 🚀 Principais Competências
 
