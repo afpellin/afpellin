@@ -19,7 +19,7 @@ HTML | CSS | JavaScript | jQuery | NestJS | PHP | Java | Python | phpMyAdmin | M
 ✔️ Projetos Destacados
 
 - [URI Beecrowd PHP](https://github.com/afpellin/uri-beecrowd-php)
-- [SENAI - DEVstart Notas Atletas ](https://github.com/afpellin/notas-atletas)
+- [SENAI - DEVstart](https://github.com/afpellin/notas-atletas)
 - [SENAC - Programador Java](https://github.com/afpellin/Senac-Programador-Java)
 
 🎓 Formação Acadêmica
