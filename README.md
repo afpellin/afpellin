@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o <a href="https://github.com/afpellin">Fernando Pellin</a></h1>
+<h1 align="center">👋 Olá, eu sou o <a href="https://github.com/afpellin">André Felipe</a></h1>
 
 <p align="center">
   <a href="https://github.com/afpellin">
