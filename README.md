@@ -79,17 +79,17 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 
 ## 🌐 Idiomas
 
-- 🇧🇷 Português (Nativo)  
-- 🇺🇸 Inglês (Intermediário)  
-- 🇪🇸 Espanhol (Intermediário)
+![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge&logo=googletranslate)
+![Inglês](https://img.shields.io/badge/Inglês-Intermediário-yellow?style=for-the-badge&logo=googletranslate)
+![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-yellow?style=for-the-badge&logo=googletranslate)
 
 ---
 
 ## 📫 Contato
 
-- 📧 E-mail: **afpellin@gmail.com**
-- 🌐 GitHub: [github.com/afpellin](https://github.com/afpellin)
-- 🌐 Portfólio: *em breve*
+[![Email](https://img.shields.io/badge/E--mail-afpellin@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:afpellin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-afpellin-24292e?style=for-the-badge&logo=github)](https://github.com/afpellin)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Em%20breve-lightgrey?style=for-the-badge&logo=vercel)](#)
 
 ---
 
