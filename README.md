@@ -45,6 +45,18 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 
 ## 💻 Tecnologias e Ferramentas
 
+### 👨‍💻 Perfil Técnico
+
+![TechLover](https://img.shields.io/badge/TechLover-💙-black?style=for-the-badge)
+![Full Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-0A0A23?style=for-the-badge&logo=codewars)
+![Front-End](https://img.shields.io/badge/Front--End-Expert-F97316?style=for-the-badge&logo=react)
+![Back-End](https://img.shields.io/badge/Back--End-Engineer-1E40AF?style=for-the-badge&logo=node.js)
+![Systems](https://img.shields.io/badge/Systems-Developer-7C3AED?style=for-the-badge&logo=linux)
+![Database](https://img.shields.io/badge/Database-Specialist-059669?style=for-the-badge&logo=databricks)
+![CyberSecurity](https://img.shields.io/badge/CyberSecurity-🔐-black?style=for-the-badge&logo=hackthebox)
+
+### 🛠️ Linguagens & Tecnologias
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,9 +65,17 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Banco de Dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-FF6600?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📱 Mobile
+
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Mobile](https://img.shields.io/badge/Mobile-Development-brightgreen?style=for-the-badge&logo=android)
+![Mobile Development](https://img.shields.io/badge/Mobile-Development-brightgreen?style=for-the-badge&logo=android)
 
 ---
 
@@ -82,15 +102,6 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge&logo=googletranslate)
 ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-yellow?style=for-the-badge&logo=googletranslate)
 ![Espanhol](https://img.shields.io/badge/Espanhol-Intermediário-yellow?style=for-the-badge&logo=googletranslate)
-
----
-## 🌐 Idiomas
-
-| Idioma      | Nível           | 🔤 |
-|-------------|------------------|----|
-| 🇧🇷 **Português**  | Nativo           | 🗣️ |
-| 🇺🇸 **Inglês**     | Intermediário    | 📘 |
-| 🇪🇸 **Espanhol**   | Intermediário    | 📗 |
 
 ---
 
