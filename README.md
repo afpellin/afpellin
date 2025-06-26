@@ -23,7 +23,7 @@
 
 ---
 
-## 😜 Sobre Mim
+## 🧐 Sobre Mim
 
 <p align="justify">
 Apaixonado por tecnologia e especializado em desenvolvimento Full Stack de alto nível. Possuo sólida formação técnica e experiência comprovada em desenvolvimento de websites, aplicativos mobile, sistemas de gerenciamento de bancos de dados e integração de APIs.
