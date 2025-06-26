@@ -78,6 +78,11 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Mobile Development](https://img.shields.io/badge/Mobile-Development-brightgreen?style=for-the-badge&logo=android)
 
+### 🗃️ Versionamento de Código
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## ✔️ Projetos Destacados
