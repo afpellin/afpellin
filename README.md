@@ -40,6 +40,7 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 - Banco de Dados  
 - Aplicações Mobile  
 - Integração de APIs
+- Cybersecurity
 
 ---
 
