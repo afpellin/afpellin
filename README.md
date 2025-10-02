@@ -26,7 +26,7 @@
 ## 🧿 Sobre Mim
 
 <p align="justify">
-Apaixonado por tecnologia e especializado em desenvolvimento Full Stack de alto nível. Possuo sólida formação técnica e experiência comprovada em desenvolvimento de websites, aplicativos mobile, sistemas de gerenciamento de bancos de dados e integração de APIs.
+Apaixonado por tecnologia, especializado em web e mobile escaláveis e seguras. Experiência sólida com HTML, CSS, JS, PHP, Python, Java, NestJS, jQuery e React Native, integrando APIs RESTful, bancos de dados, Docker e práticas de Clean Code, segurança da informação e metodologias ágeis.
 
 Com um código limpo e eficiente, tenho facilidade em resolver problemas complexos de forma criativa. Sou altamente motivado, autodidata e estou sempre em busca de aprender novas tecnologias para melhorar minhas habilidades. Tenho um forte compromisso com a qualidade e a entrega de projetos dentro do prazo. Estou aberto a novas oportunidades desafiadoras e pronto para contribuir para o sucesso de projetos de software inovadores. Vamos juntos construir o futuro da tecnologia!
 </p>
@@ -78,6 +78,9 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Mobile Development](https://img.shields.io/badge/Mobile-Development-brightgreen?style=for-the-badge&logo=android)
+
+🛡️ Certificações & Expertise em Cibersegurança (Cisco)
+<p align="center"> <img src="https://img.shields.io/badge/Junior_Cybersecurity_Analyst-🔐-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-🔐-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Endpoint_Security-🖥️-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cyber_Threat_Management-⚔️-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Network_Defense-🛠️-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Networking_Basics-🌐-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Networking_Devices-🕵️‍♂️-blue?style=for-the-badge" /> </p>
 
 ### 🗃️ Versionamento de Código
 
