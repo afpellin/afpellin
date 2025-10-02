@@ -79,7 +79,7 @@ Com um código limpo e eficiente, tenho facilidade em resolver problemas complex
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Mobile Development](https://img.shields.io/badge/Mobile-Development-brightgreen?style=for-the-badge&logo=android)
 
-🛡️ Certificações & Expertise em Cibersegurança (Cisco)
+### 🛡️ Certificações & Expertise em Cibersegurança (Cisco)
 <p align="center"> <img src="https://img.shields.io/badge/Junior_Cybersecurity_Analyst-🔐-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-🔐-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Endpoint_Security-🖥️-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Cyber_Threat_Management-⚔️-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Network_Defense-🛠️-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Networking_Basics-🌐-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Networking_Devices-🕵️‍♂️-blue?style=for-the-badge" /> </p>
 
 ### 🗃️ Versionamento de Código
