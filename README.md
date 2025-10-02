@@ -97,6 +97,7 @@ Tenho um forte compromisso com a qualidade, prazos e resultados, e estou sempre 
 
 | Projeto | Descrição |
 |--------|-----------|
+| 🎓 [DevOps PUCPR](https://github.com/afpellin/devops-pucpr) | Fluxo completo de CI/CD utilizando GitHub Actions, além da dockerização |
 | 🎯 [URI Beecrowd PHP](https://github.com/afpellin/uri-beecrowd-php) | Resolução de algoritmos em PHP para treinamento lógico |
 | 🏅 [SENAI - DEVstart](https://github.com/afpellin/notas-atletas) | Sistema de controle de notas de atletas |
 | 💼 [SENAC - Programador Java](https://github.com/afpellin/Senac-Programador-Java) | Projeto final de curso técnico com foco em POO |
