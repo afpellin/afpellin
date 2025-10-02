@@ -26,9 +26,13 @@
 ## 🧿 Sobre Mim
 
 <p align="justify">
-Apaixonado por tecnologia, especializado em web e mobile escaláveis e seguras. Experiência sólida com HTML, CSS, JS, PHP, Python, Java, NestJS, jQuery e React Native, integrando APIs RESTful, bancos de dados, Docker e práticas de Clean Code, segurança da informação e metodologias ágeis.
+Apaixonado por tecnologia e inovação, sou especializado no desenvolvimento de aplicações web e mobile escaláveis, seguras e de alta performance. Possuo experiência sólida com HTML, CSS, JavaScript, PHP, Python, Java, além de frameworks modernos como NestJS, jQuery e React Native, integrando APIs RESTful, bancos de dados relacionais e NoSQL, ambientes Docker e aplicando práticas de Clean Code, segurança da informação (Cybersecurity) e metodologias ágeis.
 
-Com um código limpo e eficiente, tenho facilidade em resolver problemas complexos de forma criativa. Sou altamente motivado, autodidata e estou sempre em busca de aprender novas tecnologias para melhorar minhas habilidades. Tenho um forte compromisso com a qualidade e a entrega de projetos dentro do prazo. Estou aberto a novas oportunidades desafiadoras e pronto para contribuir para o sucesso de projetos de software inovadores. Vamos juntos construir o futuro da tecnologia!
+Com um código limpo, eficiente e de alta qualidade, tenho facilidade em resolver problemas complexos de forma criativa, implementar soluções robustas e arquiteturas escaláveis, sempre com foco em desempenho, segurança e experiência do usuário. Sou altamente motivado, autodidata e em constante evolução, buscando novas tecnologias, frameworks e ferramentas para ampliar minhas habilidades técnicas e estratégicas.
+
+Além do desenvolvimento, possuo formação prática em Cibersegurança, com certificações Cisco, que me permitem monitorar redes, proteger endpoints, gerenciar ameaças e implementar segurança em toda a arquitetura de sistemas. Essa experiência me diferencia, permitindo entregar soluções que são ao mesmo tempo inovadoras, confiáveis e seguras.
+
+Tenho um forte compromisso com a qualidade, prazos e resultados, e estou sempre aberto a novos desafios e oportunidades para contribuir com projetos de software inovadores. Vamos juntos construir o futuro da tecnologia!
 </p>
 
 ---
