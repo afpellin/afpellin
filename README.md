@@ -120,10 +120,4 @@ Tenho um forte compromisso com a qualidade, prazos e resultados, e estou sempre 
 
 ---
 
-## 📫 Contato
-
-[![Email](https://img.shields.io/badge/E--mail-afpellin@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:afpellin@gmail.com)
-
----
-
 > *“Tecnologia é a arte de transformar ideias em soluções.”* 🚀
